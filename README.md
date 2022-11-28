@@ -1,1 +1,1 @@
-Make a bookmark and put this in as the link with the correct values.
+Copy and paste the script into a bookmark as the url.
